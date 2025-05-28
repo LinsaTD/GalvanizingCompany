@@ -1,0 +1,42 @@
+#hot-dip.main-hotdip{
+  /* background-color: #f9f9f9;
+  padding: 40px 30px;
+  margin: 40px auto;
+  max-width: 900px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  color: #333;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.7; */
+    max-width: 96%;
+    margin: 10% 6% 0 6%;
+    padding: 30px;
+    background-color: #00000017;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    line-height: 1.7;
+}
+
+.main-hotdip h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #005b4d;;
+}
+
+.main-hotdip h4 {
+  margin-top: 30px;
+  font-size: 22px;
+  color: #005b4d;;
+}
+
+.main-hotdip ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.main-hotdip li {
+  margin-bottom: 10px;
+}
